@@ -18,7 +18,7 @@ Check out the live preview of the Royel master website here:
 
 ---
 
-## Sections of the MediLap Website
+## Sections of the Royel master Website
 - **Home**
 - **About**
 - **Accomodation**
