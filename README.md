@@ -1,5 +1,5 @@
 
-# MediLap Website Created by MD. Bellal Hosen
+# Royel master Website Created by MD. Bellal Hosen
 
 Welcome to my ** Royel master website**! This project was created for practice and to showcase in my portfolio.
 
